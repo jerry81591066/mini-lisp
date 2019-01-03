@@ -1,0 +1,8 @@
+*.o
+*.output
+*.tab.c
+*.tab.h
+*.tab.o
+*.yy.c
+*.yy.o
+*.swp
